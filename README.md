@@ -15,7 +15,7 @@ April 2020
 
 ## How to use
 
-Please [clone this repository](https://github.com/Photonico/USyd_CMP.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), and [LaTeX](https://www.latex-project.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
+Please [clone this repository](https://github.com/Photonico/USyd_CMP.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
 
 ## Contents
 
