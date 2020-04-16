@@ -7,7 +7,7 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg)
 
-Lecter: Professor Catherine Stampfl
+T: Professor Catherine Stampfl
 
 the University of Sydney  
 Lu Niu  
