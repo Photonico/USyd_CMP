@@ -45,7 +45,7 @@ E-mail: LukeNiu@outlook.com
 
 ## Acknowledge
 
-Thank you for visiting.
+Thank you for your visiting.
 
 Sincerely,  
 Luke
